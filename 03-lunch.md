@@ -1,3 +1,5 @@
+[← Home](./)
+
 # Lunch
 
 Seven midday meals that lean on a hot, heavy pan for character. Most are 20–25 minutes from start to plate, sturdy enough to pack as leftovers, and varied enough to anchor a week of lunches.

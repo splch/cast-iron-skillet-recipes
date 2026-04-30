@@ -1,3 +1,5 @@
+[← Home](./)
+
 # Dinner
 
 Eleven one-pan dinners that earn the cast iron its keep. Sear, roast, braise, and finish — all in the same skillet. Every recipe is on the table in 40 minutes or less.

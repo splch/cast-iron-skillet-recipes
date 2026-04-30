@@ -1,3 +1,5 @@
+[← Home](./)
+
 # The Master Pantry
 
 This is the entire ingredient universe of this cookbook. Stock these and you can cook every recipe in this book on demand. Most kitchens already have 70% of this list.
