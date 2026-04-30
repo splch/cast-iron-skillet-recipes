@@ -1,3 +1,9 @@
+---
+title: Breakfast
+layout: default
+nav_order: 4
+---
+
 # Breakfast
 
 Ten recipes that turn the morning skillet into the most flexible breakfast tool in the kitchen. Most finish in 20 minutes; a few weekend specials reward a slow morning.
