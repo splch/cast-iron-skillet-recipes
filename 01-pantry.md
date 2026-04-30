@@ -57,7 +57,7 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Sliced olives or capers (optional)
 - Frozen corn
 
-## Spices
+## Spices & Baking
 
 - Ground cumin
 - Smoked paprika
@@ -70,9 +70,15 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Dried thyme
 - Dried rosemary
 - Ground cinnamon
+- Ground nutmeg (for desserts)
 - Vanilla extract
 - Red pepper flakes
 - Bay leaves
+- Baking powder
+- Baking soda
+- Brown sugar (for desserts)
+- Unsweetened cocoa powder (for desserts)
+- Dark chocolate chips (for desserts)
 
 ## Produce — Vegetables
 
@@ -95,7 +101,8 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 
 - Bananas
 - Berries (any: blueberries, strawberries, raspberries)
-- Apples (firm, sweet — Honeycrisp or Gala)
+- Apples (firm, sweet — Honeycrisp or Gala; Granny Smith for baking)
+- Pears (Bosc or Anjou, for tarte tatin)
 
 ## Proteins
 

@@ -2,7 +2,7 @@
 
 Simple, fast, wholesome meals from one pan.
 
-**36 recipes · One skillet · One short pantry**
+**43 recipes · One skillet · One short pantry**
 
 ---
 
@@ -57,6 +57,15 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 6. Two-Ingredient Yogurt Flatbreads
 7. Skillet Cinnamon Apples
 8. Pan-Fried Honey Bananas
+
+### [Desserts — 7 recipes](06-desserts.md)
+1. Skillet Apple Crisp with Oat-Walnut Topping
+2. Whole-Wheat Skillet Chocolate Chip Cookie
+3. Maple Berry Skillet Crumble
+4. Caramelized Pear Tarte Tatin
+5. German Apple Pancake (Apple Dutch Baby)
+6. Skillet Cocoa Brownies with Olive Oil
+7. Olive Oil Yogurt Cake with Roasted Berries
 
 ---
 
