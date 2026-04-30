@@ -1,3 +1,9 @@
+---
+title: Desserts
+layout: default
+nav_order: 8
+---
+
 # Desserts
 
 Seven desserts that lean on cast iron's even heat to caramelize fruit, crisp edges, and finish a tender crumb. Whole grains, fruit, and natural sweeteners do the heavy lifting — these aren't health-food versions, just real desserts that don't go overboard.

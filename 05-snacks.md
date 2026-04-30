@@ -1,3 +1,9 @@
+---
+title: Snacks
+layout: default
+nav_order: 7
+---
+
 # Snacks & Small Bites
 
 Eight whole-food snacks built on a hot, heavy pan. Every one is on the table in 15 minutes or less and uses 4–6 ingredients from the shared pantry.

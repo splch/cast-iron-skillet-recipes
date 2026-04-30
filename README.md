@@ -1,3 +1,9 @@
+---
+title: Home
+layout: default
+nav_order: 1
+---
+
 # The Healthy Cast Iron Cookbook
 
 Simple, fast, wholesome meals from one pan.

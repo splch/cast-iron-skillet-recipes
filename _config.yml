@@ -1,3 +1,6 @@
 title: The Healthy Cast Iron Cookbook
 description: Simple, fast, wholesome meals from one pan.
-theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+color_scheme: light
