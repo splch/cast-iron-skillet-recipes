@@ -12,27 +12,27 @@ Eight whole-food snacks built on a hot, heavy pan. Every one is on the table in 
 
 ## 1. Crispy Skillet Chickpeas
 
-Crunchy outside, creamy inside — better than oven-roasted because the iron crisps without drying them out.
+Crisp-edged, creamy-centered — the stovetop cousin of oven-roasted, ready in a fraction of the time.
 
 **Time:** 15 min · **Serves:** 4
 
 **Ingredients**
 - 2 (15 oz) cans chickpeas, drained, rinsed, patted very dry
 - 2 Tbsp olive oil
-- ¾ tsp paprika
+- ¾ tsp smoked paprika
 - ¾ tsp garlic powder
 - ½ tsp salt
 - Black pepper
 
 **Method**
-1. Pat chickpeas thoroughly dry — moisture is the enemy of crispness.
+1. Pat chickpeas thoroughly dry — moisture is the enemy of crispness. Rub off any loose skins.
 2. Toss with paprika, garlic powder, salt, and pepper.
 3. Heat 1 Tbsp oil in a 10–12 inch skillet over medium.
-4. Add chickpeas in a single layer. Cover; cook 3 min undisturbed.
-5. Stir gently, drizzle remaining 1 Tbsp oil, cover, and cook 9–11 more min, stirring every 3 min, until deeply golden and crackling.
-6. Off heat, leave covered 1 min. Serve warm.
+4. Add chickpeas in a single layer; do not stir for 4–5 min until the underside is browned.
+5. Drizzle remaining oil, stir, and cook **uncovered** 6–8 min more, stirring every 2–3 min, until deeply golden and audibly crackling.
+6. Serve warm.
 
-> Covering traps a touch of steam to keep interiors creamy while the heavy iron crisps the exteriors.
+> Cover traps steam — the opposite of crisp. Cooking uncovered the entire time is what gets the edges shattering.
 
 ---
 
@@ -139,13 +139,13 @@ Soft, blistered flatbreads with no yeast. Great with hummus, or as scoops for th
 
 **Ingredients**
 - 1 cup plain Greek yogurt (full-fat)
-- 1½ cups whole-wheat flour, plus more to dust
-- 1 tsp baking powder
+- 1¼ cups whole-wheat flour, plus more to dust
+- 1½ tsp baking powder
 - ½ tsp salt
 - 1 tsp olive oil
 
 **Method**
-1. Stir yogurt, flour, baking powder, salt, and oil with a wooden spoon until shaggy. Knead in the bowl 1 min until smooth. Rest 5 min.
+1. Stir yogurt, flour, baking powder, salt, and oil with a wooden spoon until shaggy. Knead in the bowl 1 min until smooth — if it feels dry, add water 1 Tbsp at a time. Rest 5–15 min.
 2. Divide into 4 balls. On a floured surface, roll each into a thin 6-inch round.
 3. Heat a dry 10–12 inch skillet over medium-high until very hot, ~3 min. Brush lightly with oil.
 4. Cook one flatbread at a time, 1½–2 min per side, until puffed with golden brown spots.
@@ -188,7 +188,7 @@ Two-minute caramelization. Crisp-edged outside, custardy inside.
 **Ingredients**
 - 2 ripe but firm bananas, cut into ½-inch coins
 - 1 Tbsp butter
-- 2 Tbsp honey
+- 1½ Tbsp honey
 - ½ tsp cinnamon
 - Pinch salt
 - Optional: chopped walnuts or Greek yogurt
