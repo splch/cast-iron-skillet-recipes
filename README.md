@@ -9,7 +9,7 @@ permalink: /
 
 Simple, fast, wholesome meals from one pan.
 
-**43 recipes · One skillet · One short pantry**
+**50 recipes · One skillet · One short pantry**
 
 ---
 
@@ -21,7 +21,7 @@ Why cast iron, how this book works, washing & seasoning, heat technique.
 ### [The Master Pantry](01-pantry.md)
 Every ingredient in the book in one list — plus a starter list to unlock 80% of recipes immediately.
 
-### [Breakfast — 10 recipes](02-breakfast.md)
+### [Breakfast — 11 recipes](02-breakfast.md)
 1. Classic Shakshuka
 2. Spinach & Feta Frittata
 3. Sweet Potato Breakfast Hash with Baked Eggs
@@ -32,8 +32,9 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 8. Banana Oat Pancakes
 9. Skillet Huevos Rancheros
 10. Kale, Tomato & White Bean Skillet Eggs
+11. Spanish Tortilla (Tortilla Española)
 
-### [Lunch — 7 recipes](03-lunch.md)
+### [Lunch — 10 recipes](03-lunch.md)
 1. Cast Iron Tuna Melt
 2. Mediterranean Sautéed Shrimp & Zucchini
 3. Crispy Mushroom & Spinach Quesadillas
@@ -41,8 +42,11 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 5. Mediterranean Baked Cod
 6. Korean-Style Ground Beef Rice Bowls
 7. Tuscan White Bean & Mushroom Skillet
+8. Skillet Smashburgers with Quick Slaw
+9. Chickpea Shawarma Bowls
+10. Skillet Tortilla Pizza
 
-### [Dinner — 11 recipes](04-dinner.md)
+### [Dinner — 13 recipes](04-dinner.md)
 1. Mediterranean Skillet Chicken with Tomatoes & Feta
 2. Crispy Chicken Thighs with Carrots (Cold-Pan Method)
 3. One-Pan Lemon Chicken Thighs with Spinach Orzo
@@ -52,8 +56,10 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 7. Apple Cider Pork Chops
 8. Sizzling Chicken Fajitas
 9. Ground Turkey Skillet (Mexican-Style)
-10. Beef & Black Bean Taco Skillet (Brown Rice Built-In)
+10. Beef & Black Bean Taco Skillet (Rice Built-In)
 11. Tuscan White Bean & Kale Skillet
+12. Skillet Cod Piccata
+13. Garlicky Shrimp & Peppers
 
 ### [Snacks & Small Bites — 8 recipes](05-snacks.md)
 1. Crispy Skillet Chickpeas
@@ -65,7 +71,7 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 7. Skillet Cinnamon Apples
 8. Pan-Fried Honey Bananas
 
-### [Desserts — 7 recipes](06-desserts.md)
+### [Desserts — 8 recipes](06-desserts.md)
 1. Skillet Apple Crisp with Oat-Walnut Topping
 2. Whole-Wheat Skillet Chocolate Chip Cookie
 3. Maple Berry Skillet Crumble
@@ -73,6 +79,7 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 5. German Apple Pancake (Apple Dutch Baby)
 6. Skillet Cocoa Brownies with Olive Oil
 7. Olive Oil Yogurt Cake with Roasted Berries
+8. Stovetop Skillet Rice Pudding
 
 ---
 

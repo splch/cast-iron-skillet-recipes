@@ -6,7 +6,7 @@ nav_order: 4
 
 # Breakfast
 
-Ten recipes that turn the morning skillet into the most flexible breakfast tool in the kitchen. Most finish in 20 minutes; a few weekend specials reward a slow morning.
+Eleven recipes that turn the morning skillet into the most flexible breakfast tool in the kitchen. Most finish in 20 minutes; a few weekend specials reward a slow morning.
 
 ---
 
@@ -17,12 +17,12 @@ Eggs poached in a spiced tomato-pepper sauce. The single most iconic cast iron b
 **Time:** 30 min · **Serves:** 4
 
 **Ingredients**
-- 3 Tbsp olive oil
+- 2 Tbsp olive oil
 - 1 yellow onion, chopped
 - 1 red bell pepper, chopped
 - 3 garlic cloves, minced
 - 1 tsp cumin
-- 1 tsp paprika
+- 1 tsp smoked paprika
 - Pinch red pepper flakes
 - 1 (28 oz) can whole peeled tomatoes, hand-crushed
 - 6 large eggs
@@ -32,7 +32,7 @@ Eggs poached in a spiced tomato-pepper sauce. The single most iconic cast iron b
 **Method**
 1. Heat oil in a 10–12 inch skillet over medium. Cook onion and bell pepper 5 min until softened.
 2. Stir in garlic, cumin, paprika, and red pepper flakes; cook 1 min.
-3. Add tomatoes with juices. Simmer 10–12 min until thickened. Season.
+3. Add tomatoes with juices. Simmer 12–15 min until jammy, not soupy. Season.
 4. Make 6 wells; crack one egg into each.
 5. Cover and cook on low 5–7 min until whites set and yolks runny.
 6. Scatter feta over top. Serve from the skillet with bread.
@@ -43,7 +43,7 @@ Eggs poached in a spiced tomato-pepper sauce. The single most iconic cast iron b
 
 ## 2. Spinach & Feta Frittata
 
-Adapted from America's Test Kitchen. The Kitchn's perfect-frittata ratio: 10 eggs · 3 Tbsp dairy · 3 oz cheese · 2 cups vegetables.
+Built on the classic frittata ratio: 10 eggs · 3 Tbsp dairy · 3 oz cheese · ~2 cups wilted greens.
 
 **Time:** 25 min · **Serves:** 4–6
 
@@ -53,20 +53,20 @@ Adapted from America's Test Kitchen. The Kitchn's perfect-frittata ratio: 10 egg
 - 2 Tbsp olive oil
 - 1 small onion, finely chopped
 - 2 garlic cloves, minced
-- 8 oz baby spinach
+- 5 oz baby spinach
 - 3 oz feta, crumbled
 - 1 tsp dried oregano
 - Salt, pepper
 
 **Method**
-1. Heat broiler. Whisk eggs, milk, oregano, ¾ tsp salt, and pepper.
+1. Heat oven to 350°F (or heat broiler — see note). Whisk eggs, milk, oregano, ¾ tsp salt, and pepper.
 2. Heat oil in a 10-inch skillet over medium. Cook onion 3 min; add garlic, cook 30 sec.
 3. Add spinach in handfuls; cook until wilted and dry, ~3 min.
 4. Pour in eggs. Stir gently until edges set, ~1 min. Scatter feta on top.
-5. Slide under broiler 2–4 min until just set and lightly golden.
+5. Bake 7–10 min until just set in the center (or broil 2–4 min for a more golden top).
 6. Rest 5 min; slice into wedges.
 
-> Stovetop-to-broiler in one pan. Residual heat finishes the eggs gently — no rubbery texture.
+> Cast iron's residual heat is generous — bake gently for the silkiest texture, broil only if you want a tan top.
 
 ---
 
@@ -100,27 +100,27 @@ Sturdy meal-prep hash that crisps without going mushy.
 
 ## 4. Strapatsada (Greek Tomato-Feta Scrambled Eggs)
 
-Four humble ingredients, fifteen minutes, deeply memorable.
+Five humble ingredients, fifteen minutes, deeply memorable. The canonical version skips tomato paste entirely — fresh tomato cooked hard until jammy is the whole flavor.
 
 **Time:** 15 min · **Serves:** 2
 
 **Ingredients**
 - 5 large eggs
 - 2 Tbsp olive oil
-- 1½ cups cherry tomatoes, halved
+- 2 cups cherry tomatoes, halved (or 2 medium tomatoes, grated and skins discarded)
 - 1 garlic clove, minced
-- 2 Tbsp tomato paste
+- ½ tsp dried oregano
 - ½ cup crumbled feta
 - Salt, pepper
 
 **Method**
 1. Beat eggs with ½ tsp salt and pepper.
-2. Heat olive oil in a 10-inch skillet over medium. Cook tomatoes 5–7 min until softened and blistered.
-3. Add garlic, cook 30 sec. Stir in tomato paste plus 2 Tbsp water; cook 2 min.
-4. Lower heat. Pour in eggs. Stir gently until just set, ~2 min.
+2. Heat olive oil in a 10-inch skillet over medium-high. Cook tomatoes 7–10 min until thickened and almost dry — this is the move.
+3. Add garlic and oregano; cook 30 sec.
+4. Lower heat to medium-low. Pour in eggs. Stir constantly 1–2 min until just set.
 5. Off heat, scatter feta over top. Serve with toast.
 
-> Turn the burner off before the eggs look done — the pan's heat finishes them soft.
+> Cook the tomatoes hard before the eggs hit. Wet tomatoes = watery eggs.
 
 ---
 
@@ -135,7 +135,7 @@ Weekend bake that feeds a crowd and keeps in the fridge all week.
 - 2 ripe bananas, mashed
 - 2 large eggs
 - 1½ cups milk
-- ¼ cup maple syrup
+- 2 Tbsp maple syrup
 - 1 tsp cinnamon
 - 1 tsp vanilla
 - 2½ cups rolled oats
@@ -143,12 +143,12 @@ Weekend bake that feeds a crowd and keeps in the fridge all week.
 - 1½ cups mixed berries
 
 **Method**
-1. Heat oven to 375°F. Generously butter a 10-inch skillet.
+1. Heat oven to 375°F with a buttered 10-inch skillet inside; this preheats the pan for crisp edges.
 2. Whisk bananas, eggs, milk, maple syrup, melted butter, cinnamon, and vanilla.
 3. Stir in oats, baking powder, and salt. Fold in half the berries.
-4. Pour into skillet. Scatter remaining berries on top.
+4. Pull the hot skillet. Pour batter in; scatter remaining berries on top.
 5. Bake 30–35 min until set in the center and golden at the edges.
-6. Cool 10 min; serve with Greek yogurt and a drizzle of maple syrup.
+6. Cool 10 min; serve with Greek yogurt (the bananas already do the sweetening — taste before you reach for more syrup).
 
 > Pre-warming the buttered pan in the oven gives crisp golden edges — the best part.
 
@@ -199,13 +199,13 @@ The fastest legitimate breakfast in the book.
 
 **Method**
 1. Cut a 2-inch hole from the center of each slice with a glass. Butter both sides of the bread and the rounds.
-2. Heat skillet over medium 1 min. Add bread and cutout rounds.
+2. Heat skillet over medium-low for 4–5 min — cast iron needs the time to load up evenly. Add bread and cutout rounds.
 3. Crack one egg into each hole. Season.
 4. Cook 2–3 min until bread is golden and whites mostly set.
 5. Flip carefully; cook 1–2 min more for runny yolks.
 6. Top with avocado, a squeeze of lemon, and red pepper flakes.
 
-> Even, dry heat browns the bread without burning the butter — better than non-stick here.
+> A patient preheat on medium-low is the difference between golden bread + tender yolks and burnt bread + raw whites.
 
 ---
 
@@ -248,21 +248,22 @@ Protein, fiber, and heat in one pan.
 - 3 garlic cloves, minced
 - 1 (15 oz) can black beans, drained
 - 2 medium tomatoes, diced
-- 1 tsp cumin, 1 tsp paprika, ½ tsp chili powder
+- 1 tsp cumin, 1 tsp chili powder
 - 4 corn tortillas
 - 4 large eggs
+- ½ cup shredded sharp cheddar
 - 1 avocado, sliced
-- ½ cup crumbled feta or sharp cheddar
+- Lime wedges
 
 **Method**
 1. Heat oven to 400°F. Heat oil in a 12-inch skillet over medium.
 2. Sauté onion 4 min. Add garlic and spices; cook 30 sec.
 3. Stir in beans, tomatoes, salt, and 2 Tbsp water. Simmer 5 min until thickened.
-4. Tuck tortillas around the edges of the pan; brush with oil. Make 4 wells in the beans.
-5. Crack one egg into each well. Sprinkle cheese over the beans.
-6. Bake 8–12 min until whites set and yolks runny. Top with avocado.
+4. Make 4 wells in the beans. Crack one egg into each well. Sprinkle cheese over the beans.
+5. Bake 8–12 min until whites set and yolks runny.
+6. Warm tortillas in a dry skillet 30 sec/side. Plate; spoon beans and an egg over each. Top with avocado and a squeeze of lime.
 
-> Stovetop-to-oven in one pan: beans stay hot while the eggs bake.
+> Cooking the eggs in the bean base and warming tortillas separately keeps the tortillas crisp instead of soggy.
 
 ---
 
@@ -292,3 +293,28 @@ A 15-minute weekday workhorse that eats like dinner.
 6. Serve from the skillet with toast.
 
 > Lid traps gentle steam to set whites perfectly without overcooking the yolks.
+
+---
+
+## 11. Spanish Tortilla (Tortilla Española)
+
+Five ingredients, no dairy, no flour. Eats hot, room-temp, or cold from the fridge — the most flexible meal-prep dish in the book.
+
+**Time:** 40 min · **Serves:** 4–6
+
+**Ingredients**
+- 1 lb Yukon Gold potatoes, peeled, sliced ⅛-inch
+- 1 small yellow onion, thinly sliced
+- ⅓ cup olive oil
+- 6 large eggs
+- Salt, pepper
+
+**Method**
+1. Heat oil in a 10-inch skillet over medium. Add potatoes and onion with a generous pinch of salt. Cook gently, stirring every few minutes, 18–22 min until potatoes are tender — never letting them brown.
+2. Drain in a sieve over a bowl, reserving 2 Tbsp of the oil. Cool 5 min.
+3. Whisk eggs with ¾ tsp salt and pepper. Fold in the warm potato-onion mixture.
+4. Wipe the skillet, return reserved oil, heat over medium. Pour in the egg mixture; pat flat. Cook 5–6 min until edges set and the bottom is golden.
+5. Slide onto a plate; invert the skillet over the plate and flip. Return to the pan; cook 3–4 min more until just set in the center.
+6. Slide onto a board, cool 5 min. Cut into wedges.
+
+> The cast iron's even heat is what lets you cook the potatoes through without browning them — confit-style — which is the soul of a real tortilla española.

@@ -26,7 +26,7 @@ This book follows one principle: **cook real food, fast, with as few ingredients
 
 ## How This Book Works
 
-- **40+ recipes** across breakfast, lunch, dinner, and snacks.
+- **50 recipes** across breakfast, lunch, dinner, snacks, and desserts.
 - **Most recipes use 5–8 ingredients** (excluding salt, pepper, and oil).
 - **Most recipes finish in 20–30 minutes.**
 - **Every recipe is built from a single shared pantry** — see the next page.

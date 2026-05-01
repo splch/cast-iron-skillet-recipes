@@ -10,7 +10,7 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 
 ## Cooking Fats
 
-- Olive oil (extra-virgin for finishing, regular for cooking)
+- Olive oil (one bottle covers searing, baking, and finishing)
 - Unsalted butter
 
 ## Aromatics & Fresh Herbs
@@ -21,11 +21,11 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Garlic (fresh; garlic powder for rubs)
 - Lemons
 - Limes
-- Fresh basil (for caprese, garnish)
+- Fresh basil (caprese, garnish)
 - Fresh parsley (garnish)
-- Fresh rosemary (or dried)
-- Fresh thyme (or dried)
-- Ginger (ground or fresh)
+- Fresh rosemary
+- Fresh thyme
+- Ginger (fresh or ground)
 
 ## Acids, Liquids & Condiments
 
@@ -36,55 +36,52 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Dijon mustard
 - Honey
 - Maple syrup
-- Apple cider (for one pork dish — replace with broth + 1 tsp vinegar in a pinch)
+- Apple cider (single-use; substitute broth + 1 tsp apple cider vinegar)
 - Low-sodium chicken or vegetable broth
 - Chunky salsa (jarred)
-- Hot sauce (optional)
+- Capers (optional, for piccata and salads)
 
 ## Dry Goods & Pantry
 
-- Kosher salt and fine sea salt
+- Kosher salt (also covers finishing — flaky if you have it)
 - Black peppercorns (whole, freshly ground)
 - Rolled oats (old-fashioned)
-- Whole-wheat flour (and a little all-purpose)
+- Whole-wheat flour (whole-wheat pastry flour preferred for tender bakes)
+- All-purpose flour (small amount, for Dutch babies)
 - Whole-grain bread, sourdough or sandwich
 - Whole-wheat tortillas (and corn tortillas for huevos rancheros)
-- Long-grain rice (white or brown)
-- Quinoa (optional, for bowls)
+- Long-grain rice (white)
+- Quinoa (optional, swaps 1:1 for rice in bowls)
 - Orzo
 - Popcorn kernels
 - Canned diced tomatoes
 - Canned crushed/whole tomatoes
-- Tomato paste
+- Tomato paste (freezes well in 1-Tbsp dollops)
 - Canned chickpeas
 - Canned black beans
 - Canned white beans (cannellini)
 - Canned tuna (in olive oil or water)
-- Sliced olives or capers (optional)
 - Frozen corn
 
 ## Spices & Baking
 
 - Ground cumin
-- Smoked paprika
-- Sweet paprika
+- Smoked paprika (and a regular paprika if you have one — otherwise smoked covers)
 - Chili powder
 - Cayenne (small amount, for blackening)
 - Onion powder
 - Garlic powder
 - Dried oregano
 - Dried thyme
-- Dried rosemary
 - Ground cinnamon
-- Ground nutmeg (for desserts)
+- Ground nutmeg (a pinch, for baking)
 - Vanilla extract
 - Red pepper flakes
-- Bay leaves
 - Baking powder
 - Baking soda
-- Brown sugar (for desserts)
-- Unsweetened cocoa powder (for desserts)
-- Dark chocolate chips (for desserts)
+- Brown sugar
+- Unsweetened cocoa powder
+- Dark chocolate chips
 
 ## Produce — Vegetables
 
@@ -94,10 +91,9 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Bell peppers (mixed colors)
 - Mushrooms (cremini)
 - Sweet potatoes
-- Yukon Gold potatoes (optional)
+- Yukon Gold potatoes (for Spanish tortilla and hashes)
 - Zucchini
 - Broccoli
-- Green beans
 - Avocados
 - Carrots
 - Celery
@@ -107,7 +103,7 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 
 - Bananas
 - Berries (any: blueberries, strawberries, raspberries)
-- Apples (firm, sweet — Honeycrisp or Gala; Granny Smith for baking)
+- Apples (firm sweet — Honeycrisp or Gala; Granny Smith for baking)
 - Pears (Bosc or Anjou, for tarte tatin)
 
 ## Proteins
@@ -115,12 +111,11 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Eggs (large)
 - Boneless skinless chicken breasts
 - Bone-in skin-on chicken thighs (and boneless when called for)
-- Ground beef (93% lean)
-- Ground turkey (93% lean)
+- Ground beef or ground turkey, 93% lean (interchangeable)
 - Salmon fillets (skin-on)
 - White fish (cod, tilapia)
 - Shrimp (fresh or frozen, peeled and deveined)
-- Pork chops (boneless)
+- Pork chops (boneless; chicken thigh substitutes 1:1, see below)
 - Boneless strip or ribeye steak (occasional)
 
 ## Dairy
@@ -134,9 +129,8 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 
 ## Nuts & Seeds
 
-- Raw almonds
-- Walnuts (optional)
-- Pumpkin seeds (optional)
+- Raw almonds (whole — chop as needed)
+- Walnuts
 
 ---
 
@@ -144,13 +138,16 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 
 You don't need everything at once. **Start with this short list and 80% of the book unlocks:**
 
-Olive oil · butter · salt · pepper · garlic · onion · lemon · eggs · Greek yogurt · oats · whole-grain bread · rice · canned beans · canned tomatoes · spinach · bell pepper · sweet potato · avocado · banana · berries · chicken thighs · ground beef · feta · Parmesan · cheddar · cumin · paprika · chili powder · oregano · cinnamon · red pepper flakes · honey · soy sauce · Dijon · red wine vinegar.
+Olive oil · butter · kosher salt · pepper · garlic · onion · lemon · eggs · Greek yogurt · oats · whole-grain bread · rice · canned beans · canned tomatoes · spinach · bell pepper · sweet potato · avocado · banana · berries · chicken thighs · ground beef · feta · Parmesan · cheddar · cumin · smoked paprika · chili powder · oregano · cinnamon · red pepper flakes · honey · soy sauce · Dijon · red wine vinegar.
 
 That's about 35 items. Everything else expands variety but isn't needed week one.
 
 ## Substitution Quick-Reference
 
 - **Apple cider** → chicken broth + 1 tsp apple cider vinegar
+- **Pork chops** → boneless chicken thighs (cook to 165°F instead of 145°F; same sear-and-braise method)
+- **Cilantro** → flat-leaf parsley + an extra squeeze of lime
+- **Sage** → fresh or dried thyme (1:1)
 - **Fresh herbs** → ⅓ the amount in dried (e.g., 1 Tbsp fresh thyme = 1 tsp dried)
 - **Lime** → lemon (most recipes), but keep limes for fajitas if you can
 - **Shrimp** → boneless chicken thigh strips (cook a few minutes longer)
@@ -158,3 +155,8 @@ That's about 35 items. Everything else expands variety but isn't needed week one
 - **Honey** ↔ maple syrup (interchangeable in every recipe here)
 - **Cannellini** ↔ great northern or navy beans
 - **Cremini** ↔ button or baby bella mushrooms
+- **Sliced almonds** → raw almonds, roughly chopped
+- **All-purpose flour** → whole-wheat pastry flour (1:1 in cakes and Dutch babies)
+- **Puff pastry** (for tarte tatin) → quick galette dough: 1 cup AP + ¼ cup whole-wheat + 8 Tbsp cold cubed butter + 3–4 Tbsp ice water + pinch salt; pulse, gather, chill 20 min
+- **Quinoa** ↔ rice (1:1 cooked)
+- **Pears** (in tarte tatin) → firm apples
