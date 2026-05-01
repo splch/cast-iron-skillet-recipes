@@ -36,10 +36,9 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Dijon mustard
 - Honey
 - Maple syrup
-- Apple cider (single-use; substitute broth + 1 tsp apple cider vinegar)
 - Low-sodium chicken or vegetable broth
 - Chunky salsa (jarred)
-- Capers (optional, for piccata and salads)
+- Capers (optional — only for cod piccata)
 
 ## Dry Goods & Pantry
 
@@ -51,7 +50,6 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 - Whole-grain bread, sourdough or sandwich
 - Whole-wheat tortillas (and corn tortillas for huevos rancheros)
 - Long-grain rice (white)
-- Quinoa (optional, swaps 1:1 for rice in bowls)
 - Orzo
 - Popcorn kernels
 - Canned diced tomatoes
@@ -103,8 +101,7 @@ This is the entire ingredient universe of this cookbook. Stock these and you can
 
 - Bananas
 - Berries (any: blueberries, strawberries, raspberries)
-- Apples (firm sweet — Honeycrisp or Gala; Granny Smith for baking)
-- Pears (Bosc or Anjou, for tarte tatin)
+- Apples (firm sweet — Honeycrisp or Gala; Granny Smith for baking; also stand in for pears in tarte tatin)
 
 ## Proteins
 
@@ -144,7 +141,6 @@ That's about 35 items. Everything else expands variety but isn't needed week one
 
 ## Substitution Quick-Reference
 
-- **Apple cider** → chicken broth + 1 tsp apple cider vinegar
 - **Pork chops** → boneless chicken thighs (cook to 165°F instead of 145°F; same sear-and-braise method)
 - **Cilantro** → flat-leaf parsley + an extra squeeze of lime
 - **Sage** → fresh or dried thyme (1:1)
@@ -155,8 +151,8 @@ That's about 35 items. Everything else expands variety but isn't needed week one
 - **Honey** ↔ maple syrup (interchangeable in every recipe here)
 - **Cannellini** ↔ great northern or navy beans
 - **Cremini** ↔ button or baby bella mushrooms
+- **Rice** ↔ quinoa (1:1 cooked) for variety in bowls
 - **Sliced almonds** → raw almonds, roughly chopped
 - **All-purpose flour** → whole-wheat pastry flour (1:1 in cakes and Dutch babies)
 - **Puff pastry** (for tarte tatin) → quick galette dough: 1 cup AP + ¼ cup whole-wheat + 8 Tbsp cold cubed butter + 3–4 Tbsp ice water + pinch salt; pulse, gather, chill 20 min
-- **Quinoa** ↔ rice (1:1 cooked)
-- **Pears** (in tarte tatin) → firm apples
+- **Apples** (in tarte tatin) ↔ ripe-but-firm Bosc or Anjou pears

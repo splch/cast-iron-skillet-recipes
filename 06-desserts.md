@@ -97,14 +97,14 @@ A summery foil to apple crisp. Use whatever berries are in season — frozen ber
 
 ---
 
-## 4. Caramelized Pear Tarte Tatin
+## 4. Caramelized Apple Tarte Tatin
 
-Pears caramelize in the skillet's brown-sugar caramel, then a single sheet of pastry goes on top. Flip to reveal glossy fruit.
+Apples caramelize in the skillet's brown-sugar caramel, then a single sheet of pastry goes on top. Flip to reveal glossy fruit. Pears work beautifully if you have them.
 
 **Time:** 45 min (15 prep · 30 bake) · **Serves:** 8
 
 **Ingredients**
-- 5–6 small ripe-but-firm Bosc or Anjou pears, halved and cored
+- 5–6 small firm-sweet apples — Honeycrisp, Gala, or Pink Lady (or ripe-but-firm Bosc/Anjou pears), halved and cored
 - 4 Tbsp butter
 - ½ cup brown sugar
 - ½ tsp cinnamon, pinch nutmeg
@@ -120,8 +120,8 @@ Pears caramelize in the skillet's brown-sugar caramel, then a single sheet of pa
 1. Make dough: pulse flours, salt, and butter in a food processor until pea-sized. Add ice water 1 Tbsp at a time until dough just clumps. Pat into a disk, chill 20 min while you start the caramel. Roll out to an 11-inch round on a floured surface.
 2. Heat oven to 400°F.
 3. Melt butter in a 10-inch skillet over medium. Whisk in brown sugar, cinnamon, nutmeg, and salt; cook 2–3 min until bubbling and dark amber.
-4. Off heat, arrange pears cut-side up, packed snugly.
-5. Lay dough over the top; tuck edges down around the pears with the back of a spoon. Cut 4 small steam vents.
+4. Off heat, arrange fruit cut-side up, packed snugly.
+5. Lay dough over the top; tuck edges down around the fruit with the back of a spoon. Cut 4 small steam vents.
 6. Bake 30–35 min until pastry is deep golden. Rest 10 min, then carefully invert onto a plate (do this over the sink — the caramel is hot).
 
 > The skillet is the caramel pan, the baking dish, and the serving cradle. Even heat means no scorch spots in the caramel — make-or-break for tarte tatin.

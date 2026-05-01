@@ -75,7 +75,7 @@ Every ingredient in the book in one list — plus a starter list to unlock 80% o
 1. Skillet Apple Crisp with Oat-Walnut Topping
 2. Whole-Wheat Skillet Chocolate Chip Cookie
 3. Maple Berry Skillet Crumble
-4. Caramelized Pear Tarte Tatin
+4. Caramelized Apple Tarte Tatin
 5. German Apple Pancake (Apple Dutch Baby)
 6. Skillet Cocoa Brownies with Olive Oil
 7. Olive Oil Yogurt Cake with Roasted Berries

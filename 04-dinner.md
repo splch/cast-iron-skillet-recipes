@@ -177,7 +177,7 @@ Thirteen one-pan dinners that earn the cast iron its keep. Sear, roast, braise, 
 - 2 Tbsp Dijon mustard
 - 1 Tbsp honey
 - 1–2 sweet apples, sliced
-- ¾ cup apple cider (or chicken broth + 1 tsp apple cider vinegar)
+- ¾ cup chicken broth + 1 tsp apple cider vinegar (or ¾ cup apple cider, if you have it)
 - 1 Tbsp fresh thyme
 - Salt, pepper
 
